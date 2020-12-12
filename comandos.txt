@@ -1,0 +1,1 @@
+"C:\Program Files\Odoo 14.0e.20201012\python\python.exe" odoo-bin scaffold ahmarcos_module 01MarcosAlarcon
